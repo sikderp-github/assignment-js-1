@@ -7,7 +7,7 @@ function feetToMile(feet) {
     }
     return mile.toFixed(6); // miles fixed to 6 digit 
 }
-var x = feetToMile(1);
+let x = feetToMile(1);
 console.log(x);
 
 
