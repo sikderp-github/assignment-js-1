@@ -48,5 +48,5 @@ function tinyFriend(names) {
             shortestName = friendsName;
         }
     }
-    return "Tiny friend's name is : " + shortestName;
+    return "Tiny friend's name is : " + shortestName; // for same lengthed-string, used alphabetically ascending.
 }
